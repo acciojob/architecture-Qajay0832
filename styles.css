@@ -1,1 +1,12 @@
 /*  your css code here. If applicable */
+.webpage{
+	width:1100px;
+	background-color:lightgreen;
+}
+.image{
+	width:600px;
+}
+.tableImage{
+	width:200px;
+	height:200px
+}
